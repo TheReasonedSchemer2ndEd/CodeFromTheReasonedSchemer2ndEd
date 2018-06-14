@@ -1,4 +1,4 @@
-# CodeFromTheReasonedSchemer2ndEd
+# Code from `The Reasoned Schemer, Second Edition`
 
 Code from The Reasoned Schemer, Second Edition, by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov and Jason Hemann, 2018 MIT Press
 
