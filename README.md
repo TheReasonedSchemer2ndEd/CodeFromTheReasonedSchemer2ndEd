@@ -1,6 +1,8 @@
 # Code from `The Reasoned Schemer, Second Edition`
 
-Code from The Reasoned Schemer, Second Edition, by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov and Jason Hemann, 2018 MIT Press
+Code from The Reasoned Schemer, Second Edition, by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov and Jason Hemann, 2018 MIT Press.
+
+https://mitpress.mit.edu/books/reasoned-schemer-second-edition
 
 
 `trs2-impl.scm` includes the implementation of the language used in the book, from Chapter 10 &amp; Appendix A
@@ -19,3 +21,6 @@ Code from The Reasoned Schemer, Second Edition, by Daniel P. Friedman, William E
 ((0 0 1 1))
 >
 ```
+
+
+You can find more about the language of the book at http://minikanren.org/
