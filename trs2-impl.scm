@@ -230,9 +230,3 @@
   (syntax-rules ()
     ((condu (g0 g ...) ...)
      (conda ((once g0) g ...) ...))))
-
-
-
-;;; DELETE ME
-(define F fail)
-(define S succeed)
