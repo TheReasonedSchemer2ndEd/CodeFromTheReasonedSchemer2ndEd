@@ -1,8 +1,11 @@
 # Code from `The Reasoned Schemer, Second Edition`
 
-Code from The Reasoned Schemer, Second Edition, by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov and Jason Hemann, 2018 MIT Press.
+Code from `The Reasoned Schemer, Second Edition`, by Daniel P. Friedman, William E. Byrd, Oleg Kiselyov and Jason Hemann, 2018 MIT Press.
 
 https://mitpress.mit.edu/books/reasoned-schemer-second-edition
+
+The code in this repository is covered under the MIT License (see the [LICENSE](./LICENSE) file).  The contents of `The Reasoned Schemer, Second Edition` is &copy; 2018 Massachusetts Institute of Technology, all rights reserved.
+
 
 
 `trs2-impl.scm` includes the implementation of the language used in the book, from Chapter 10 &amp; Appendix A
